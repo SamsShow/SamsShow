@@ -55,6 +55,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamsShow&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sam-pw" /></p>
 <br>
 
+[![An image of @samsshow's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samsshow)](https://holopin.io/@samsshow)
+
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sakshamtyagi28/" target="blank"><img align="center"
