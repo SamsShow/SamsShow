@@ -34,9 +34,6 @@
       width="40" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind"
        width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="sakshamtyagi.me" target="_blank"
-    rel="noreferrer"> 
     <img src = "https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" width="45" height="40" /> </a> <a href="sakshmtyagi.me" target="_blank"
     rel="noreferrer"> 
         <img src = "https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" width="40" height="40" /> </a> <a href="sakshmtyagi.me" target="_blank"
@@ -44,6 +41,9 @@
     <img src = "https://icon-icons.com/downloadimage.php?id=130156&root=2107/PNG/512/&file=file_type_solidity_icon_130156.png" width="40" height="40" /> </a> <a href="sakshmtyagi.me" target="_blank"
     rel="noreferrer">
 <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> <a href="sakshamtyagi.me" target="_blank"
+    rel="noreferrer"> 
     <img src = "https://www.saashub.com/images/app/service_logos/177/5calsa790aop/large.png?1677920086" width="40" height="40" /> </a> <a href="sakshmtyagi.me" target="_blank"
     rel="noreferrer">
     <img src = "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3220443/framer-icon-md.png" width="40" height="40" /> </a> <a href="sakshmtyagi.me" target="_blank"
