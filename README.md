@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+Web3+Engineer;Blockchain+Wizard+%7C+UI%2FUX+Magician;Building+The+Future+One+Line+At+A+Time;$14%2C000+Grant+Winner+%7C+Hackathon+Champion)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+Web3+Engineer;Blockchain+Wizard+%7C+UI%2FUX+Magician;Building+The+Future+One+Line+At+A+Time;$14%2C000+Grant+Winner+%7C)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="50"/> **THE CODE ARCHITECT FROM ANOTHER DIMENSION** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="50"/>
 
