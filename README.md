@@ -1,223 +1,148 @@
-# 🚀 Hello, i'M SAKSHAM TYAGI 🚀
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+Web3+Engineer;Blockchain+Wizard+%7C+UI%2FUX+Magician;Building+The+Future+One+Line+At+A+Time;$14%2C000+Grant+Winner+%7C)
+# 👋 Hi, I'm Saksham Tyagi
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="50"/> **THE CODE ARCHITECT FROM ANOTHER DIMENSION** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="50"/>
+**Full Stack Developer | Web3 Engineer | UI/UX Designer**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0xsaksham.tech-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://0xsaksham.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0xsaksham.tech-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0xsaksham.tech)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamtyagi28)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamsShow2)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamtyagi2008@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamtyagi2008@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=SamsShow&label=👀%20PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-## 🌟 **LEGENDARY ACHIEVEMENTS UNLOCKED** 🌟
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="60"/>
-<br><strong>$14,000</strong><br>MSME Ideathon Grant
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60"/>
-<br><strong>$2,000</strong><br>QuickNode BuildOn 3rd Place
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="60"/>
-<br><strong>$4,000</strong><br>Move AI Hackathon Winner
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60"/>
-<br><strong>Microsoft</strong><br>Student Ambassador
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ **POWER LEVEL: OVER 9000!** ⚡
-
-<div align="center">
-
-### 🛠️ **TECH ARSENAL** 🛠️
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,python,cpp,solidity,tailwind,firebase,docker,git,github,figma,html,css&theme=dark" />
-</p>
-
-### 🎯 **SPECIAL ABILITIES** 🎯
-
-<table align="center">
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" width="40"/><br><strong>Blockchain Magic</strong></td>
-<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="40"/><br><strong>UI/UX Wizardry</strong></td>
-<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="40"/><br><strong>Full Stack Power</strong></td>
-<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="40"/><br><strong>AI Integration</strong></td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=SamsShow&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🔥 **LEGENDARY PROJECTS FROM THE FUTURE** 🔥
+## 🚀 About Me
 
-### 🤖 **HYPEFLOW AI** - *AI-Powered DeFi Trading Agent*
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="100"/>
+Full Stack Developer specializing in Web3 technologies and modern web applications.
 
-```typescript
-// Breaking the DeFi space with AI magic ✨
-const tradingBot = {
-  blockchain: "Aptos",
-  language: "Move",
-  aiPowered: "Gemini AI + Twitter Sentiment",
-  performance: "+20% portfolio returns",
-  engagement: "+40% user growth"
-}
+```javascript
+const saksham = {
+    location: "📍 Ghaziabad, India",
+    education: "🎓 B.Tech ELCE + Data Science Minor",
+    interests: ["🔗 Blockchain", "🤖 AI/ML", "🎨 UI/UX", "⚡ Web3"],
+    currentFocus: "Building next-gen DeFi applications"
+};
 ```
 
-### ⚡ **ENERXCHANGE** - *P2P Energy Trading Revolution*
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="100"/>
-
-```solidity
-// Revolutionizing renewable energy trading 🌱
-contract EnergyTrading {
-    mapping(address => uint256) public energyBalance;
-    // IoT + Blockchain + Smart Contracts = Future Energy
-    // 100+ kWh automated trading ⚡
-    // Chainlink Oracle integration 🔗
-}
-```
-
----
-
-## 📊 **BATTLE STATISTICS** 📊
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamsShow&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamsShow&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Move](https://img.shields.io/badge/Move-4285F4?style=flat&logo=blockchain&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-<img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamsShow&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
 
-</div>
+**Frontend & Design**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## 🎯 **CURRENT MISSIONS** 🎯
+**Blockchain & Tools**  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="30"/> **Currently hacking on:** Advanced DeFi protocols & AI-powered trading systems
+</div>  
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30"/> **Learning:** Move Language, Advanced Solidity Patterns, Zero-Knowledge Proofs
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="30"/> **Next Target:** Building the next unicorn Web3 startup
-
----
-
-## 🌈 **EXPERIENCE TIMELINE** 🌈
-
-<details>
-<summary>🚀 <strong>CLICK TO EXPAND MY JOURNEY</strong> 🚀</summary>
-
-### 🎯 **REWARDSY** | *Full Stack Developer*
-**Jan 2025 - Apr 2025** | *Remote*
-- 🏗️ Built location-based rewards platform
-- ⚡ **40% faster** page load times
-- 🔥 **30% better** performance for 1000+ users
-- 📱 20+ scalable REST API endpoints
-
-### 💼 **STEALTH STARTUP** | *Frontend Developer* 
-**Oct 2024 - Nov 2024** | *Remote*
-- 🎨 Pixel-perfect UI from Figma designs
-- 📈 **95+ Google PageSpeed** scores achieved
-- 🔥 React.js + Tailwind CSS mastery
-
-### 🎨 **IKNOWSPOTS** | *Lead UI/UX Designer*
-**Feb 2024 – Jul 2024** | *Remote*
-- 🎯 Led complete design system creation
-- 🐛 **35% reduction** in UI bugs post-launch
-- 📱 From user research to high-fidelity mockups
-
-</details>
-
----
-
-## 🏆 **ACHIEVEMENT SHOWCASE** 🏆
-
-<div align="center">
-
-[![Holopin Badges](https://holopin.me/samsshow)](https://holopin.io/@samsshow)
-
-### 🎖️ **CERTIFICATIONS & HONORS** 🎖️
+## 🎯 Notable Projects
 
 <table>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="50"/>
-<br><strong>Postman API Expert</strong><br>Canvas Credentials | 2024
+<td width="50%">
+
+### 🤖 HypeFlow AI
+**AI-powered DeFi Trading Agent**
+
+- Built on **Aptos blockchain** using Move language
+- Integrates **Gemini AI** and Twitter sentiment analysis
+- Automated trading decisions with **+20% portfolio returns**
+- **+40% user engagement** growth
+
+*Tech Stack: Move, TypeScript, AI/ML, DeFi protocols*
+
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="50"/>
-<br><strong>MS Learn Ambassador</strong><br>Microsoft | 2024
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="50"/>
-<br><strong>Google Cloud Certified</strong><br>Coursera | 2023
+<td width="50%">
+
+### ⚡ EnerXchange  
+**P2P Energy Trading Platform**
+
+- Renewable energy marketplace on blockchain
+- **IoT integration** with smart meters
+- **Chainlink oracle** connectivity
+- **100+ kWh** automated trading volume
+
+*Tech Stack: Solidity, React.js, IoT, Smart Contracts*
+
 </td>
 </tr>
 </table>
 
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Award | 💰 Amount | 🏢 Organization |
+|----------|-----------|----------------|
+| **MSME Ideathon Grant** | $14,000 | Government Initiative |
+| **Move AI Hackathon** | $4,000 | 1st Place Winner |
+| **QuickNode BuildOn** | $2,000 | 3rd Place Winner |
+| **MS Learn Ambassador** | - | Microsoft Recognition |
+| **Postman API Expert** | - | Postman |
+
+</div>
+
+## 💼 Experience
+
+### 🚀 **Full Stack Developer** | Rewardsy  
+*Jan 2025 - Apr 2025 | Remote*
+- Built location-based rewards platform serving **1000+ users**
+- Optimized performance achieving **40% faster** page load times
+- Developed **20+ scalable REST API** endpoints
+
+### 💻 **Frontend Developer** | Stealth Startup  
+*Oct 2024 - Nov 2024 | Remote*
+- Implemented pixel-perfect UI designs with **95+ Google PageSpeed** scores
+- Built responsive interfaces using React.js and Tailwind CSS
+
+### 🎨 **Lead UI/UX Designer** | IKnowSpots  
+*Feb 2024 - Jul 2024 | Remote*
+- Led complete design system creation from research to high-fidelity mockups
+- Reduced UI bugs by **35%** post-launch through improved design processes
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamsShow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamsShow&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsShow&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🎵 **CURRENTLY VIBING TO** 🎵
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31k6adk4onqtd4e6hj5hqghyxepi)
-
----
-
-## 💫 **THE MAGIC FORMULA** 💫
-
 <div align="center">
 
-```javascript
-const Saksham = {
-    location: "🌍 Ghaziabad, India",
-    education: "🎓 B.Tech ECE + Data Science Minor @ ABES",
-    passions: ["🔮 Web3", "🤖 AI", "🎨 Design", "⚡ Innovation"],
-    currentFocus: "🚀 Building the decentralized future",
-    funFact: "🧠 I dream in TypeScript and wake up in Solidity",
-    motto: "💡 Code today, change tomorrow!"
-}
-```
+*⭐ Open to collaboration on innovative Web3 and full-stack projects*
 
-### 🌟 **CONNECT WITH THE ME** 🌟
-
-<p align="center">
-<a href="https://linkedin.com/in/sakshamtyagi28"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/SamsShow2"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://0xsaksham.tech"><img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="mailto:sakshamtyagi2008@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-
-### ⭐ **IF YOU'VE READ THIS FAR, YOU'RE AWESOME!** ⭐
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="30"/> **Star my repos if you find them interesting!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="30"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20the%20future%20together!&descAlignY=51&descAlign=50"/>
-
-</div>
+**Let's connect and build something amazing together! 🚀**
 
 </div>
