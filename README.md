@@ -61,39 +61,6 @@ const saksham = {
 
 </div>  
 
-## 🎯 Notable Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 HypeFlow AI
-**AI-powered DeFi Trading Agent**
-
-- Built on **Aptos blockchain** using Move language
-- Integrates **Gemini AI** and Twitter sentiment analysis
-- Automated trading decisions with **+20% portfolio returns**
-- **+40% user engagement** growth
-
-*Tech Stack: Move, TypeScript, AI/ML, DeFi protocols*
-
-</td>
-<td width="50%">
-
-### ⚡ EnerXchange  
-**P2P Energy Trading Platform**
-
-- Renewable energy marketplace on blockchain
-- **IoT integration** with smart meters
-- **Chainlink oracle** connectivity
-- **100+ kWh** automated trading volume
-
-*Tech Stack: Solidity, React.js, IoT, Smart Contracts*
-
-</td>
-</tr>
-</table>
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -103,41 +70,22 @@ const saksham = {
 | **MSME Ideathon Grant** | $14,000 | Government Initiative |
 | **Move AI Hackathon** | $4,000 | 1st Place Winner |
 | **QuickNode BuildOn** | $2,000 | 3rd Place Winner |
+| **Aptos DAO Grants** | $900 | 3rd Place Winner |
 | **MS Learn Ambassador** | - | Microsoft Recognition |
 | **Postman API Expert** | - | Postman |
 
 </div>
 
-## 💼 Experience
-
-### 🚀 **Full Stack Developer** | Rewardsy  
-*Jan 2025 - Apr 2025 | Remote*
-- Built location-based rewards platform serving **1000+ users**
-- Optimized performance achieving **40% faster** page load times
-- Developed **20+ scalable REST API** endpoints
-
-### 💻 **Frontend Developer** | Stealth Startup  
-*Oct 2024 - Nov 2024 | Remote*
-- Implemented pixel-perfect UI designs with **95+ Google PageSpeed** scores
-- Built responsive interfaces using React.js and Tailwind CSS
-
-### 🎨 **Lead UI/UX Designer** | IKnowSpots  
-*Feb 2024 - Jul 2024 | Remote*
-- Led complete design system creation from research to high-fidelity mockups
-- Reduced UI bugs by **35%** post-launch through improved design processes
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamsShow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamsShow&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</div>
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsShow&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
 </div>
 
 ---
+
+[![An image of @samsshow's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samsshow)](https://holopin.io/@samsshow)
 
 <div align="center">
 
