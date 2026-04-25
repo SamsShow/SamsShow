@@ -4,7 +4,6 @@
 
 **Full Stack Developer | Web3 Engineer | UI/UX Designer**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0xsaksham.tech-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0xsaksham.tech)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamtyagi28)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamtyagi2008@gmail.com)
 
